@@ -204,7 +204,6 @@ SQLAlchemy-Utils==0.32.11
 statsd==3.2.1
 stevedore==1.20.0
 subprocess32==3.2.7
-system-service==0.1.6
 tensorflow==1.0.1
 terminado==0.6
 textblob==0.12.0

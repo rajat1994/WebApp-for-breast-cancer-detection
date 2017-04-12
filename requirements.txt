@@ -37,7 +37,6 @@ cycler==0.10.0
 datacite==0.3.0
 dcxml==0.1.0
 decorator==4.0.10
-defer==1.0.6
 dictdiffer==0.6.0
 dirspec==13.10
 Django==1.10.5
@@ -253,7 +252,4 @@ xdiagnose==3.7.2
 xlrd==1.0.0
 xlutils==2.0.0
 xlwt==1.2.0
--e git+https://github.com/zenodo/zenodo.git@41d8a2507bbb3b562a3a9b94620b2284410812eb#egg=zenodo
-zenodo-accessrequests==1.0.0a2
--e git+https://github.com/zenodo/zenodo-migrator.git@dd6e0894d2a293f89fe8efd9dd917325a7fa6f66#egg=zenodo_migrator
 zope.interface==4.1.1

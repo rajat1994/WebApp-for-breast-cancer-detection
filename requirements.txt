@@ -29,7 +29,6 @@ citeproc-py==0.3.0
 citeproc-py-styles==0.1.0
 click==6.7
 colorama==0.3.7
-command-not-found==0.3
 configparser==3.5.0
 cookiecutter==1.4.0
 coverage==4.2

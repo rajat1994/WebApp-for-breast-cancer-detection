@@ -211,7 +211,6 @@ texttable==0.8.7
 tornado==4.4.2
 traitlets==4.3.1
 Unidecode==0.4.19
-unity-lens-photos==1.0
 uritemplate.py==1.0.1
 uritools==2.0.0
 urllib3==1.20

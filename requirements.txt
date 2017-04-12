@@ -158,7 +158,6 @@ pyasn1==0.1.9
 pyasn1-modules==0.0.5
 pycparser==2.17
 pycrypto==2.6.1
-pycups==1.9.72
 pycurl==7.19.5
 pydocstyle==1.1.1
 Pygments==2.1.3

@@ -232,7 +232,6 @@ wsgi-statsd==0.3.1
 WTForms==2.1
 WTForms-Alchemy==0.16.1
 WTForms-Components==0.10.0
-xdiagnose==3.7.2
 xlrd==1.0.0
 xlutils==2.0.0
 xlwt==1.2.0

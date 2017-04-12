@@ -98,7 +98,6 @@ ipdb==0.10.2
 ipykernel==4.5.2
 ipython==5.1.0
 ipython-genutils==0.1.0
-isbnid==0.4.2
 isbnid-fork==0.5.2
 isort==4.2.5
 itsdangerous==0.24

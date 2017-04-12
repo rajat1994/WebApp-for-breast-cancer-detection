@@ -210,7 +210,6 @@ textblob==0.12.0
 texttable==0.8.7
 tornado==4.4.2
 traitlets==4.3.1
-Twisted-Core==14.0.2
 Twisted-Web==14.0.2
 Unidecode==0.4.19
 unity-lens-photos==1.0

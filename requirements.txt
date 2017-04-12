@@ -187,7 +187,6 @@ scikit-learn==0.18.1
 scipy==0.19.0
 selenium==2.52.0
 service-identity==1.0.0
-sessioninstaller==0.0.0
 Sickle==0.6.1
 simplegeneric==0.8.1
 simplejson==3.10.0

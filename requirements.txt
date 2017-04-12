@@ -4,7 +4,6 @@ amqp==1.4.9
 anyjson==0.3.3
 apipkg==1.4
 appdirs==1.4.3
-apt-xapian-index==0.46
 arrow==0.8.0
 autosemver==0.2.4
 Babel==2.3.4

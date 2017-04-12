@@ -173,7 +173,6 @@ pytest-cov==2.4.0
 pytest-flask==0.10.0
 pytest-pep8==1.0.6
 python-dateutil==2.6.0
-python-debian==0.1.22
 python-editor==1.0.1
 python-slugify==1.2.1
 pytz==2016.7

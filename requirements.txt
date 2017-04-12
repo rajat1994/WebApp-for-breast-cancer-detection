@@ -133,7 +133,6 @@ node-semver==0.1.1
 notebook==4.4.1
 numpy==1.12.1
 oauthlib==1.1.2
-oneconf==0.3.7.15.4.1
 ordereddict==1.1
 packaging==16.8
 PAM==0.4.2

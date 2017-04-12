@@ -135,7 +135,6 @@ numpy==1.12.1
 oauthlib==1.1.2
 ordereddict==1.1
 packaging==16.8
-PAM==0.4.2
 pandas==0.19.2
 passlib==1.6.5
 pathlib2==2.1.0

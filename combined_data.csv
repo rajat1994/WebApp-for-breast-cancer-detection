@@ -668,6 +668,7 @@ clump_thickness,unif_cell_size,unif_cell_shape,marg_adhesion,single_epith_cell_s
 clump_thickness,unif_cell_size,unif_cell_shape,marg_adhesion,single_epith_cell_size,bare_nuclei,bland_chrom,norm_nucleoli,mitoses,class
 clump_thickness,unif_cell_size,unif_cell_shape,marg_adhesion,single_epith_cell_size,bare_nuclei,bland_chrom,norm_nucleoli,mitoses,class
 clump_thickness,unif_cell_size,unif_cell_shape,marg_adhesion,single_epith_cell_size,bare_nuclei,bland_chrom,norm_nucleoli,mitoses,class
+clump_thickness,unif_cell_size,unif_cell_shape,marg_adhesion,single_epith_cell_size,bare_nuclei,bland_chrom,norm_nucleoli,mitoses,class
 5,1,1,1,2,1,3,1,1,0
 5,4,4,5,7,10,3,2,1,0
 3,1,1,1,2,2,3,1,1,0

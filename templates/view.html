@@ -1,16 +1,29 @@
-<form method=post action="">
-<table>
+<html>
+<body style="background-color:bisque ;">
+<p><h1 align = "center">Breast Cancer Detection</h1></p>
+
+<form method=post action="" >
+
+
+<table align="center">
+
   {% for field in form %}
     <tr>
-    <td>{{ field.name }}</td><td>{{ field }}</td>
-    <td>{{ field.label }}</td>
+    <td>{{ field.label }}</td><td>{{ field }}</td>
     </tr>
   {% endfor %}
 </table>
-<p><input type=submit value=Compute></form></p>
-<p>
+<p align="center"><input type=submit value=Compute ></form></p>
+<p align="center" > 
 {% if result != None %}
 {{result}}
 {% endif %}
 </p>
 </form>
+<br><br><br><br><br><br>
+<p ><h5>* This app uses a machine learning algorithm to determine whether the breast mass is benign or malignant.
+<br>* The dataset is taken from the <a href = "https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original)">UCI machine learning repository.</a>
+<br>* This is merely a college major project, not a market product.
+<br>* The project is open sourced on <a href = "https://github.com/rajat1994/WebApp-for-breast-cancer-detection">Github.</a></h5></p>
+</body>
+</html>

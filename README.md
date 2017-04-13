@@ -3,10 +3,12 @@
 * Link of the dataset : http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29
 
 
-### Requirement ###
+### Requirements ###
 
 * Python >=2.7 or >=3.4
 * Scikit-learn
+* Flask
+* Heroku
 
 
 ### How to run ###

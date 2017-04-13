@@ -5,20 +5,23 @@
 
 ### Requirement ###
 
-- Python >=2.7 or >=3.4
-- Scikit-learn
+* Python >=2.7 or >=3.4
+* Scikit-learn
+
 
 ### How to run ###
 
-$ pip install -r requirements.txt
-$ gunicorn controller:app --log-file=-
+* $ pip install -r requirements.txt
+* $ gunicorn controller:app --log-file=-
    
+
 ### Deploy to Heroku ###
 
-$ heroku apps:create [NAME]
-$ git add .
-$ git commit -m "first commit"
-$ git push heroku master
+* $ heroku apps:create [NAME]
+* $ git add .
+* $ git commit -m "first commit"
+* $ git push heroku master
+
 
 or Heroku Button
 

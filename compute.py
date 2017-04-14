@@ -43,12 +43,15 @@ def compute ( a,b,c,d,e,z,g,h,i):
       test_set =     tf.contrib.learn.datasets.base.load_csv_with_header(filename=CANCER_TEST,
                                                    target_dtype=np.int, features_dtype=np.int)
 
-
+      feature_columns = [tf.contrib.layers.real_valued_column("", dimension=9)]
         
-      classifier =   RandomForestClassifier(n_estimators=10)
+      classifier = tf.contrib.learn.DNNClassifier(feature_columns=feature_columns,
+                                              hidden_units=[10, 20, 10],
+                                              n_classes=2,
+                                              model_dir="/tmp/iris_model")
 
 # Fit model.
-      classifier = classifier.fit(training_set.data, training_set.target)
+      classifier = classifier.fit(training_set.data, training_set.target, steps=2000)
       k =a
       l = b
       m =c
@@ -59,7 +62,13 @@ def compute ( a,b,c,d,e,z,g,h,i):
       r = h
       s  = i   
                
-      s= classifier.predict([[k,l,m,n,o,p,q,r,s]])
+      def new_samples():
+          return np.array([[k, l, m, n, o, p, q, r, s],
+                   ], dtype=np.float32)
+
+      s = list(classifier.predict(input_fn=new_samples))    
+
+
       if (s == [[1]]):
             return "malignant"
       else:

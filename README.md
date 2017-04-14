@@ -6,7 +6,7 @@
 ### Requirements ###
 
 * Python >=2.7 or >=3.4
-* TensorFlow
+* TensorFlow >= 1.0.0
 * Flask
 * Heroku
 

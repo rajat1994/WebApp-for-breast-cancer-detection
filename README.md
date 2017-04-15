@@ -1,7 +1,8 @@
 # WebApp-for-breast-cancer-detection
-* A flask application for breast cancer detection (Under Development)
+* A flask application for breast cancer detection (Under Development). The app can tell whether the breast mass is benign or     malignant. It uses the deep neural net classifier to find the pattern in the data.
 * Link of the dataset : http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29
-
+* The attributes in the sample are in the range (1-10). So,doctors will enter the values of attributes and clicking on the 
+  compute can tell whether it's benign or malignant.
 
 ### Requirements ###
 

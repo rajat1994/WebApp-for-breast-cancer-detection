@@ -5,11 +5,9 @@ from __future__ import print_function
 import tensorflow as tf
 import numpy as np
 import pandas as pd
-from sklearn import tree, metrics
-from sklearn.metrics import confusion_matrix
 from model import InputForm
 from flask import Flask, render_template, request
-from sklearn.ensemble import RandomForestClassifier
+
 
 
 def compute ( a,b,c,d,e,z,g,h,i):

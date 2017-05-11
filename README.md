@@ -3,6 +3,7 @@
 * Link of the dataset : http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29
 * The attributes in the sample are in the range (1-10). So,doctors will enter the values of attributes and clicking on the 
   compute button can tell whether it's benign or malignant.
+* Video : https://www.youtube.com/watch?v=ulB_VYAcY5U  
 
 ### Requirements ###
 

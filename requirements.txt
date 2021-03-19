@@ -101,7 +101,7 @@ ipython-genutils==0.1.0
 isbnid-fork==0.5.2
 isort==4.2.5
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 jinja2-time==0.2.0
 jsmin==2.2.1
 jsonpatch==1.14

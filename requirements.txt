@@ -143,7 +143,7 @@ peewee==2.8.8
 pep8==1.7.0
 pexpect==4.2.1
 pickleshare==0.7.4
-Pillow==3.4.2
+Pillow==8.2.0
 piston-mini-client==0.7.5
 pluggy==0.4.0
 poyo==0.4.0

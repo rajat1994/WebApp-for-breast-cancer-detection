@@ -38,7 +38,7 @@ datacite==0.3.0
 dcxml==0.1.0
 decorator==4.0.10
 dictdiffer==0.6.0
-Django==1.10.5
+Django==2.2.24
 docker==2.1.0
 docker-compose==1.11.2
 docker-pycreds==0.2.1

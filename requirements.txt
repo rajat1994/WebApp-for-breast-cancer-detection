@@ -83,7 +83,7 @@ functools32==3.2.3.post2
 future==0.16.0
 github3.py==1.0.0a4
 gunicorn==19.6.0
-html5lib==0.9999999
+html5lib==0.999999999
 httplib2==0.9
 humanize==0.5.1
 idna==2.1

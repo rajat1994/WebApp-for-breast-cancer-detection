@@ -120,7 +120,7 @@ Mako==1.0.6
 MarkupSafe==1.0
 marshmallow==2.10.4
 matplotlib==2.0.0
-mistune==0.7.3
+mistune==0.8.1
 mnist==0.2.1
 mock==2.0.0
 msgpack-python==0.4.8

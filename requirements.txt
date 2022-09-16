@@ -116,7 +116,7 @@ konch==2.2.0
 limits==1.2.0
 lockfile==0.8
 lxml==3.6.4
-Mako==1.0.6
+Mako==1.2.2
 MarkupSafe==1.0
 marshmallow==2.10.4
 matplotlib==2.0.0
